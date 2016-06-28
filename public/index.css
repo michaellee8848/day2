@@ -1,0 +1,21 @@
+.shadow {
+    text-shadow: 5px 5px 5px grey
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#fred {
+    font-weight: bold;
+}
+
+.blue-box {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border: 1px;
+    padding: 5px;
+    margin: 10px;
+
+}

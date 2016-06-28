@@ -1,0 +1,21 @@
+{
+  "name": "day2",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "michaellee8848 <michaellee8848@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "font-awsome#^4.6.3"
+  }
+}
